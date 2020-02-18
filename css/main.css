@@ -1,0 +1,66 @@
+.max-height {
+  min-height: 100vh;
+} 
+body {
+  background-image: url("https://avatars.mds.yandex.net/get-pdb/937659/cfe5e257-25f3-463c-a6c3-373774f9eb58/orig");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+}
+.quote-container {
+  background: transparent;
+  color: #ffffff;
+bottom: 80px;
+
+}
+
+#generate-btn:focus {
+outline: none;
+}
+
+.text-capitalize {
+  position: relative;
+}
+
+#generate-btn {
+  color: rgb(255, 255, 255);
+  background: transparent;
+  border-color: #64b6ac;
+  cursor: pointer;
+  font-size: 1.5rem;
+  padding: 1rem 1rem;
+  border-radius: 20%;
+  top: 100px;
+  left: 8px;
+  right: -220px;
+  bottom: -100px;
+  
+}
+
+#generate-btn:hover {
+  background: #62dbe4;
+  border-color: #070d44;
+  color: #333333;
+}
+.author {
+  color: #ffffff;
+}
+.quote-icon { 
+  color:white;
+
+}
+
+.colorquote {
+  color: white;
+}
+  
+ .colorquote:hover, .quote-icon:hover, .author:hover {
+  color: aquamarine;
+}
+
+
+
+
+
+
+
